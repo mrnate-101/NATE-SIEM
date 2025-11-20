@@ -1,8 +1,6 @@
 # NATE-SIEM
 I have decided to build my SIEM for log detection and and analysis. I will finish in a week from today. Let's go!
-
-# NATE-SIEM
-A lightweight, modular Security Information and Event Management (SIEM) platform designed to collect, parse, analyze, and visualize security logs in real time.
+NATE-SIEM lightweight, modular Security Information and Event Management (SIEM) platform designed to collect, parse, analyze, and visualize security logs in real time.
 
 ## 🚀 Features
 - Log ingestion for Linux, Windows, and network devices
